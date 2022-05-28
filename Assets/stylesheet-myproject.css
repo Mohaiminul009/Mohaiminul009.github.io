@@ -1,0 +1,52 @@
+#a_1{
+    font-size: 25px;
+}
+#h6_1{
+    color: #FF6347;
+}
+/* #span_1{
+    font-size: larger;
+} */
+ul>li{
+    display: inline-block;
+    font-size: 20px;
+    padding:15px ;
+}
+#desert{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#h2_1{
+    font-family: fantasy;
+}
+.recipes{
+    height: 250px;
+    width: 300px;
+}
+.strong-1{
+    color: #dc7419;
+}
+.rated{
+    height: 100px;
+    width: 100px;
+}
+#top{
+    margin-top: 50px;
+}
+#bg_img{
+    /*background-image: url(../Images/lily-banse--YHSwy6uqvk-unsplash.jpg);*/
+    height: 100%;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.review{
+    text-align: justify;
+}
+form{
+    border:solid;
+    background-color:#ADD8E6 ; 
+    border-radius:5%;
+     padding:15px; 
+     margin-bottom: 15px;
+}
